@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework Functions", "Homework Functions.csproj", "{FAAF3B43-6FAF-44A5-8A06-AFE22941B867}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Matrix\Arrays.csproj", "{0E81AF2B-723E-439C-9654-9B7715C977A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FAAF3B43-6FAF-44A5-8A06-AFE22941B867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAAF3B43-6FAF-44A5-8A06-AFE22941B867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAAF3B43-6FAF-44A5-8A06-AFE22941B867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E81AF2B-723E-439C-9654-9B7715C977A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E81AF2B-723E-439C-9654-9B7715C977A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E81AF2B-723E-439C-9654-9B7715C977A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E81AF2B-723E-439C-9654-9B7715C977A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
